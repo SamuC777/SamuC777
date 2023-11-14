@@ -1,22 +1,22 @@
-[
-    {
-        "id": "1",
-        "name": "name 1",
-        "age": "22"
-    },
-    {
-        "id": "2",
-        "name": "name 2",
-        "age": "33"
-    },
-    {
-        "id": "3",
-        "name": "name 3",
-        "age": "44"
-    },
-    {
-        "id": "4",
-        "name": "name 4",
-        "age": "55"
-    }
-]
+<table>
+    <tr>
+        <td>pin</td>
+        <td>time</td>
+    </tr>
+    <tr>
+        <td>0001</td>
+        <td>1524810082</td>
+    </tr>
+    <tr>
+        <td>0002</td>
+        <td>1524810082</td>
+    </tr>
+    <tr>
+        <td>0003</td>
+        <td>1524810082</td>
+    </tr>
+    <tr>
+        <td>0004</td>
+        <td>1524810082</td>
+    </tr>
+</table>
