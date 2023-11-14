@@ -1,26 +1,12 @@
-<?php
-$string =  "<table>".
-"    <tr>".
-"        <td>pin</td>".
-"        <td>time</td>".
-"    </tr>".
-"    <tr>".
-"        <td>0001</td>".
-"        <td>1524810082</td>".
-"    </tr>".
-"    <tr>".
-"        <td>0002</td>".
-"        <td>1524810082</td>".
-"    </tr>".
-"    <tr>".
-"        <td>0003</td>".
-"        <td>1524810082</td>".
-"    </tr>".
-"    <tr>".
-"        <td>0004</td>".
-"        <td>1524810082</td>".
-"    </tr>".
-"</table>";
+CREATE TABLE peoples(
+    id INTEGER PRIMARY KEY,
+    name CHAR(20),
+    age CHAR(2)
+);
 
- echo $string; 
-?>
+INSERT INTO peoples VALUES (1, 'name 1', '22');
+INSERT INTO peoples VALUES (2, 'name 2', '33');
+INSERT INTO peoples VALUES (3, 'name 3', '44');
+INSERT INTO peoples VALUES (4, 'name 4', '55');
+
+SELECT * FROM peoples
