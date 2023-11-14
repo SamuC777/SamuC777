@@ -1,12 +1,45 @@
-CREATE TABLE peoples(
-    id INTEGER PRIMARY KEY,
-    name CHAR(20),
-    age CHAR(2)
-);
+<!DOCTYPE html>
+<html>
 
-INSERT INTO peoples VALUES (1, 'name 1', '22');
-INSERT INTO peoples VALUES (2, 'name 2', '33');
-INSERT INTO peoples VALUES (3, 'name 3', '44');
-INSERT INTO peoples VALUES (4, 'name 4', '55');
+<head>
+    <meta charset='UTF-8'>
+    <title>SQL To HTML using bfotool.com</title>
+</head>
 
-SELECT * FROM peoples
+<body>
+    <center>
+        <table border='1' class='display'>
+            <thead>
+                <tr>
+                    <th>id</th>
+                    <th>name</th>
+                    <th>age</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>name 1</td>
+                    <td>22</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>name 2</td>
+                    <td>33</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>name 3</td>
+                    <td>44</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>name 4</td>
+                    <td>55</td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
+</body>
+
+</html>
