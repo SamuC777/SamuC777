@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @SamuC777
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SamuC777/SamuC777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header"> <a class="navbar-brand" href="#">WebSiteName</a> 
+        </div>
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a>
+            </li>
+            <li><a href="#">Page 1</a>
+            </li>
+            <li><a href="#">Page 2</a>
+            </li>
+            <li><a href="#">Page 3</a>
+            </li>
+        </ul>
+    </div>
+</nav>
