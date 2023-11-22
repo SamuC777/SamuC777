@@ -26,3 +26,5 @@
   </footer>
 </body>
 </html>
+<img src="http://arquivo.devmedia.com.br/artigos/Joel_Rodrigues/HTMLBasico/avatar.png" alt="Texto alternativo" title="Avatar" #tamfixo/>
+<img src="arquivo_inexistente.jpg" alt="Texto alternativo" title="Outra figura"/>
