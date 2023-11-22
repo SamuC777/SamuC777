@@ -10,7 +10,7 @@
 
   <nav>
     <ul>
-      <li><a href="https://www.google.com.br/">Página Inicial</a></li>
+      <li><a href="https://www.google.com.br/">Pesquisa</a></li>
       <li><a href="#">Sobre</a></li>
       <li><a href="#">Contato</a></li>
     </ul>
@@ -24,5 +24,21 @@
   <footer>
     <p>&copy; 2023 Meu Site. Todos os direitos reservados.</p>
   </footer>
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>Document</title>
+</head>
+<body>
+<!-- Conteúdo -->
 </body>
 </html>
