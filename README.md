@@ -27,4 +27,4 @@
 </body>
 </html>
 <img src="http://arquivo.devmedia.com.br/artigos/Joel_Rodrigues/HTMLBasico/avatar.png" alt="Texto alternativo" title="Avatar" #tamfixo/>
-<img src="arquivo_inexistente.jpg" alt="Texto alternativo" title="Outra figura"/>
+<img src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fconsulfis.com.br%2Fretirada-de-socio-entenda-como-realizar-o-termo-corretamente%2F&psig=AOvVaw1_7O4Bfbd_3mySOKuCR0qa&ust=1700778460151000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi879HT2IIDFQAAAAAdAAAAABAE" alt="Texto alternativo" title="Outra figura"/>
