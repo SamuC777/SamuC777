@@ -10,7 +10,7 @@
 
   <nav>
     <ul>
-      <li><a href="#">Página Inicial</a></li>https://www.google.com.br/
+      <li><a href="https://www.google.com.br/">Página Inicial</a></li>
       <li><a href="#">Sobre</a></li>
       <li><a href="#">Contato</a></li>
     </ul>
@@ -18,7 +18,7 @@
 
   <main>
     <h2>Sobre</h2>
-    <p>Este é um site básico criado usando HTML.</p>
+    <p>site básico criado usando HTML.</p>
   </main>
 
   <footer>
