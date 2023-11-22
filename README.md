@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Meu Site Básico</title>
+  <title>iCompra</title>
 </head>
 <body>
   <header>
-    <h1>Bem-vindo ao Meu Site!</h1>
+    <h1>Sejá Muito Bem Vindos!</h1>
   </header>
 
   <nav>
     <ul>
-      <li><a href="#">Página Inicial</a></li>
+      <li><a href="#">Página Inicial</a></li>https://www.google.com.br/
       <li><a href="#">Sobre</a></li>
       <li><a href="#">Contato</a></li>
     </ul>
